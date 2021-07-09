@@ -9,4 +9,4 @@ Steps Involved are:
 a) Create an EMR cluster with 2 worker nodes  
 b) Deploy code and files to S3 through terraform  
 c) Submit the Spark Job  
-d) Terminate the EMR cluster   
+d) Terminate the EMR cluster     
